@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "837104720149",
+    "project_id": "dreamstruct-14975",
+    "storage_bucket": "dreamstruct-14975.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837104720149:android:1cab6fe08c9976a431711c",
+        "android_client_info": {
+          "package_name": "com.example.dream_struct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpbSwUWPlsSq_iglVnc8-1r3_GxEtIQhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
